@@ -1,6 +1,7 @@
 Server=tcp:sqdserver-prd01.database.windows.net,1433;
 Initial Catalog=sqd-finance-db1;Persist Security Info=False;
-User ID=admin1;Password={your_password};
+User ID=admin1;
+Password={your_password};
 MultipleActiveResultSets=False;
 Encrypt=True;
 TrustServerCertificate=False;
